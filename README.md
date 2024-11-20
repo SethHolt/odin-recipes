@@ -1,2 +1,3 @@
-This is a basic recipe website.
-I will self-reflect after the project is complete.
+This is a basic recipe website./n
+I learnt how to use git and how to build a basic website, linking between pages, using text lists, adding images, and basic formatting of HTML./n
+I only added 1 recipe as I want to move on and the TOP success guide says to not focus too much on superfluous details. I want to keep moving forward and learning, adding more recipe pages won't teach me anything new and worse it will make me hungry, it's nearly bedtime.
