@@ -1,0 +1,27 @@
+* {
+    background-color: darkolivegreen;
+    font-family: Garamond, "Courier New";
+}
+
+a {
+    color: #012;
+    text-decoration: none;
+}
+
+img {
+    display:inline-block;
+    height: 300px;
+    width: auto;
+}
+
+.odin {
+    display: inline-block;
+    height: 80px;
+    width: auto;
+}
+
+title {
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+}
